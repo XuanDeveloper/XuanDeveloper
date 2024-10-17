@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-👋 Olá, sou Juan!<br>💻 Desenvolvedor Fullstack<br>
+👋 Olá, sou Juan!<br>💻 Desenvolvedor Front end ReactJS<br>
 
 
 # 💻 Tech Stack:
