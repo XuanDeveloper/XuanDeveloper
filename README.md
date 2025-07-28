@@ -1,5 +1,5 @@
-# 💫 Sobre Mim:
-👋 Olá, sou Juan!<br>💻 Desenvolvedor Front end ReactJS<br>
+# 💫 About me:
+👋 Hello, I'm Juan!<br>💻 Software engineer<br>
 
 
 # 💻 Tech Stack:
