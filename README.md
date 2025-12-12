@@ -1,6 +1,13 @@
-# 💫 About me:
-👋 Hello, I'm Juan!  
-💻 Software engineer  
+### **🤔 About:**
+
+```diff
+@@ I'm a lover of technology and art @@
+
++ Living in Barretos, Brazil 🇧🇷 — as engrenagens giram e não param 🔧
++ 21 years old 
+! React/Next.js front-end programmer — Node.js & TypeScript enthusiast
+# Interested in building different and unusual things, JavaScript magic,
+```
 
 # 💻 Tech Stack:
 <p align="left">
