@@ -4,7 +4,7 @@
 @@ I'm a lover of technology and art @@
 
 + Living in Brazil 🇧🇷 — as engrenagens giram e não param 🔧
-- 21 years old 
+- 22 years old 
 ! React/Next.js fullstack programmer — Node.js & TypeScript enthusiast
 # Interested in building different and unusual things, JavaScript magic,
 ```
